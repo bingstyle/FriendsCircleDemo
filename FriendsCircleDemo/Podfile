@@ -1,0 +1,6 @@
+
+target 'FriendsCircleDemo' do
+
+pod 'Masonry'
+
+end
